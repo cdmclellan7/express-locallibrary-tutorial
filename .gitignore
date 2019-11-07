@@ -1,3 +1,6 @@
+#ADDED: file to populate database with data
+populatedb.js
+
 # Logs
 logs
 *.log
